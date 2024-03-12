@@ -1,10 +1,8 @@
 package frontend;
 
 import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeOptions;
 import pageObjects.*;
 
